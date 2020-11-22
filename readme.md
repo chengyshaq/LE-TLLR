@@ -8,4 +8,4 @@ Datasets are from
 * Image data (Natural Scene): http://palm.seu.edu.cn/zhangml/  
 
 # Cite
-DOI:10.1016/j.asoc.2020.106868
+DOI: 10.1016/j.asoc.2020.106868
